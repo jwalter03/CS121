@@ -1,0 +1,8 @@
+Courses Credits Score
+CS120 4 99
+CS121 4 88
+Eng134 3 98
+homeED 5 55
+HIst 100 3 88
+eng 103 3 99
+eng 1 44 55
